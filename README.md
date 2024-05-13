@@ -16,6 +16,7 @@ The project is created using JavaScript, HTML and CSS and deployed on GitHub.
 <br>
 <b> <i>The bag page:<b> <i>
 <br>
+<br>
 
 ![image](https://github.com/aakragarwal/Myntra-Project/assets/106238858/9f0e40f7-6d8a-4edf-a1b7-4c318312f91e)
 
