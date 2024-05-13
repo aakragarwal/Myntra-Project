@@ -6,11 +6,14 @@ This project provides you the functionality to view some listed products on the 
 <br>
 The project is created using JavaScript, HTML and CSS and deployed on GitHub.
 <br>
+You can access the site at: https://aakragarwal.github.io/Myntra-Project/
+<br>
 <br>
 <b> <i>The home page:<b> <i>
 <br>
 
-![image](https://github.com/aakragarwal/Myntra-Project/assets/106238858/60b1a5b5-a8bd-45bc-8ca0-e1490cc72e9b)
+![image](https://github.com/aakragarwal/Myntra-Project/assets/106238858/e921222a-432c-4057-b776-a50da3b35f33)
+
 
 
 <br>
@@ -18,7 +21,8 @@ The project is created using JavaScript, HTML and CSS and deployed on GitHub.
 <br>
 <br>
 
-![image](https://github.com/aakragarwal/Myntra-Project/assets/106238858/9f0e40f7-6d8a-4edf-a1b7-4c318312f91e)
+![image](https://github.com/aakragarwal/Myntra-Project/assets/106238858/f65b995d-b694-49b6-a4a0-13367392edfd)
+
 
 
 
