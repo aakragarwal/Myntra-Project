@@ -134,3 +134,12 @@
   height: 14px;
   cursor: pointer;
 }
+
+.empty_bag{
+  
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 10px 10px;
+
+}
